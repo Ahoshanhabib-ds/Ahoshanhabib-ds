@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **McDonald's**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, react.js, note.js, MongoDB**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, react.js, node.js, MongoDB**
 
 - 📫 How to reach me **ratulahoshan22@gmail.com**
 
